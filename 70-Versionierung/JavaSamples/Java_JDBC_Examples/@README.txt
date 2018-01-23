@@ -25,4 +25,7 @@ List Of All JDBC Programs:
     What is DatabaseMetaData? Write an example code.
     How to get JDBC Connection object using properties file?
 	
+Modifikation in Branch fuer Version 2	
+	
+	
 	
