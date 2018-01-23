@@ -10,9 +10,8 @@ public class JdbcConnection {
     public static void main(String a[]){
          
         try {
-            Class.forName(oracle.jdbc.driver.OracleDriver);
-            Connection con = DriverManager.
-                getConnection(jdbcoraclethin@hostnameport numDB name
+            Class.forName(oracle.jdbc.driver.OracleDriver)
+            Connection con = DriverManager.getConnection(jdbcoraclethin@hostnameport numDB name
                     ,user,password);
             Statement stmt = con.createStatement();
             System.out.println(Created DB Connection....);
